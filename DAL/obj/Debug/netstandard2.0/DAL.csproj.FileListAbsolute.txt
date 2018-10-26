@@ -1,0 +1,12 @@
+c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\bin\Debug\netstandard2.0\DAL.dll
+c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\bin\Debug\netstandard2.0\DAL.pdb
+c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\bin\Debug\netstandard2.0\Persistence.dll
+c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\bin\Debug\netstandard2.0\Persistence.pdb
+c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.dll
+c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.pdb

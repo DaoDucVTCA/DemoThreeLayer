@@ -1,0 +1,9 @@
+c:\Users\nasa1\Desktop\DemoThreeLayer\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+c:\Users\nasa1\Desktop\DemoThreeLayer\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+c:\Users\nasa1\Desktop\DemoThreeLayer\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+c:\Users\nasa1\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+c:\Users\nasa1\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+c:\Users\nasa1\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+c:\Users\nasa1\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+c:\Users\nasa1\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+c:\Users\nasa1\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
