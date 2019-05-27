@@ -12,3 +12,17 @@ c:\Users\nasa1\Desktop\DemoThreeLayer\BL\obj\Debug\netstandard2.0\BL.AssemblyInf
 c:\Users\nasa1\Desktop\DemoThreeLayer\BL\obj\Debug\netstandard2.0\BL.csproj.CopyComplete
 c:\Users\nasa1\Desktop\DemoThreeLayer\BL\obj\Debug\netstandard2.0\BL.dll
 c:\Users\nasa1\Desktop\DemoThreeLayer\BL\obj\Debug\netstandard2.0\BL.pdb
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\BL\bin\Debug\netstandard2.0\BL.deps.json
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\BL\bin\Debug\netstandard2.0\BL.dll
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\BL\bin\Debug\netstandard2.0\BL.pdb
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\BL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\BL\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\BL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\BL\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\BL\obj\Debug\netstandard2.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\BL\obj\Debug\netstandard2.0\BL.csproj.CopyComplete
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\BL\obj\Debug\netstandard2.0\BL.dll
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\BL\obj\Debug\netstandard2.0\BL.pdb

@@ -7,3 +7,12 @@ c:\Users\nasa1\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persi
 c:\Users\nasa1\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
 c:\Users\nasa1\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persistence.dll
 c:\Users\nasa1\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\Persistence\obj\Debug\netstandard2.0\Persistence.pdb

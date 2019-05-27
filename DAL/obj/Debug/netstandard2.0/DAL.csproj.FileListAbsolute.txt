@@ -10,3 +10,15 @@ c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.AssemblyI
 c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
 c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.dll
 c:\Users\nasa1\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.pdb
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\DAL\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\DAL\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\VTCACADEMY\Desktop\DemoThreeLayer\DAL\obj\Debug\netstandard2.0\DAL.pdb

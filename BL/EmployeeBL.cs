@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using DAL;
 using Persistence;
 
@@ -15,6 +16,11 @@ namespace BL
         public Employee GetEmployeeById(int empId)
         {
             return employeeDAL.GetEmployeeById(empId);
-        }
+        }    
+
+        public List<Employee> GetEmployeesByDepartment(string dept_name)
+        {
+            return employeeDAL.GetEmployeesByDepartment(dept_name);
+        }   
     }
 }
